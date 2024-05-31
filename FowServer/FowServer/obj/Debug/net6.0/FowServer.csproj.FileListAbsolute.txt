@@ -1,0 +1,14 @@
+C:\Users\these\source\repos\FowServer\FowServer\bin\Debug\net6.0\FowServer.exe
+C:\Users\these\source\repos\FowServer\FowServer\bin\Debug\net6.0\FowServer.deps.json
+C:\Users\these\source\repos\FowServer\FowServer\bin\Debug\net6.0\FowServer.runtimeconfig.json
+C:\Users\these\source\repos\FowServer\FowServer\bin\Debug\net6.0\FowServer.dll
+C:\Users\these\source\repos\FowServer\FowServer\bin\Debug\net6.0\FowServer.pdb
+C:\Users\these\source\repos\FowServer\FowServer\obj\Debug\net6.0\FowServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\these\source\repos\FowServer\FowServer\obj\Debug\net6.0\FowServer.AssemblyInfoInputs.cache
+C:\Users\these\source\repos\FowServer\FowServer\obj\Debug\net6.0\FowServer.AssemblyInfo.cs
+C:\Users\these\source\repos\FowServer\FowServer\obj\Debug\net6.0\FowServer.csproj.CoreCompileInputs.cache
+C:\Users\these\source\repos\FowServer\FowServer\obj\Debug\net6.0\FowServer.dll
+C:\Users\these\source\repos\FowServer\FowServer\obj\Debug\net6.0\refint\FowServer.dll
+C:\Users\these\source\repos\FowServer\FowServer\obj\Debug\net6.0\FowServer.pdb
+C:\Users\these\source\repos\FowServer\FowServer\obj\Debug\net6.0\FowServer.genruntimeconfig.cache
+C:\Users\these\source\repos\FowServer\FowServer\obj\Debug\net6.0\ref\FowServer.dll
